@@ -3,7 +3,7 @@
 PROGRAM LEVEL : HARD
 
 Problem Link:
-https://www.hackerrank.com/challenges/validating-credit-card-number/problem
+https://www.hackerrank.com/challenges/validating-postalcode/problem
 
 Follow the URL for the Question and also check the TEST CASES Scenario from the Program...
 
