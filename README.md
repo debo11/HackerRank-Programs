@@ -23,5 +23,8 @@ https://www.hackerrank.com/challenges/python-sort-sort/problem
 4.For Multiplesof3and5.py File
 https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem
 
+5. For Powerful_digit_sum.py File
+https://www.hackerrank.com/contests/projecteuler/challenges/euler056/problem
+
 
 
