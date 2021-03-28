@@ -26,5 +26,6 @@ https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem
 5.For Powerful_digit_sum.py File
 https://www.hackerrank.com/contests/projecteuler/challenges/euler056/problem
 
-
+6.For Find_Center_of_Star_Graph.py File
+https://leetcode.com/problems/find-center-of-star-graph/
 
