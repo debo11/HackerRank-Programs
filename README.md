@@ -1,7 +1,7 @@
 # HackerRank-Programs
 
 
-Hackerank Problem URL:
+Hackerank and LeetCode Problem URL:
 
 Follow the URL for the Question and also check the SAMPLE TEST CASES Scenario from the Program...
 
