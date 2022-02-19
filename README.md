@@ -29,3 +29,8 @@ https://www.hackerrank.com/contests/projecteuler/challenges/euler056/problem
 6.For Find_Center_of_Star_Graph.py File
 https://leetcode.com/problems/find-center-of-star-graph/
 
+7. For addTwoNumbers File
+https://leetcode.com/problems/add-two-numbers/
+
+8. For SingleNumber File
+https://leetcode.com/problems/single-number/
